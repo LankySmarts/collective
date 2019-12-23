@@ -1,0 +1,85 @@
+/* GLOBAL */
+body {
+	background-color: #8f8f8f;
+}
+
+/* NAVBAR */
+
+#header-nav {
+	background-color: #000000;
+	border: 5px;
+	border-radius: 0px;
+}
+
+#title {
+	vertical-align: middle;
+	text-transform: uppercase;
+  color: #6C3EBD;
+	text-shadow: 2px 2px 2px #3F00AD;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: 1;
+	font-family: 'Indie Flower', cursive;
+  font-size: 1em;
+}
+/* Social Media Icons */
+.social{
+  widows: 30px;
+  height: 30px;
+}
+
+#navlist a {
+  color: #6C3EBD;
+  text-align: center;
+}
+
+#navlist a:hover {
+  background: #69D17C;
+}
+
+ #navmenu .navbar-toggler-icon {
+ border: 3px solid #6C3EBD;
+ color: #6C3EBD ;
+}
+
+.navbar-toggler {
+  padding: 0.25rem 0.75rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  background-color: transparent;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  float: right;
+}
+
+/* FOOTER */
+
+
+
+#titlefoot {
+  vertical-align: middle;
+  text-transform: uppercase;
+  color: #69D17C;
+  text-shadow: 2px 2px 2px #3F00AD;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1;
+  font-family: 'Indie Flower', cursive;
+  font-size: .5em;
+}
+
+/* XS Up */
+@media screen and (min-width: 518px) {
+}
+/* Small Up */
+@media screen and (min-width: 576px) {
+}
+/* Medium Up */
+@media (min-width: 768px) {
+}
+/* Large Up */
+@media screen and (min-width: 992px) { 
+}
+/*Extra Large */
+@media screen and (min-width: 1200px) {
+}
